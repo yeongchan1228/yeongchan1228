@@ -9,6 +9,7 @@
 <h4>✏️ Skills</h4>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?&logo=SpringBoot&logoColor=white">
