@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Intellij-000000?logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 
 ***
