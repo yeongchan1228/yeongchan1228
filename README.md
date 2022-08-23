@@ -2,18 +2,20 @@
 
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongchan1228&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongchan1228&hide=ASP.NET,HLSL,ShaderLab&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 ### 💻 Yc`s GitHub 
 
 <h4>✏️ Skills</h4>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?&logo=Springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBatch-6DB33F?&logo=SpringBatch&logoColor=white">
 <img src="https://img.shields.io/badge/SpringCloud-6DB33F?&logo=SpringCloud&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white">
 <br>
