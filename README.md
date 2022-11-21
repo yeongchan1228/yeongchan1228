@@ -38,7 +38,6 @@
   
 [![Solved.ac
 cyc03265](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyc03265)](https://solved.ac/cyc03265)
-<img src="http://mazandi.herokuapp.com/api?handle=cyc03265&theme=warm"/>
 
 
 </div>
